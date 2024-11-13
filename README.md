@@ -58,7 +58,7 @@
   </tr>
 <tr>
     <td>2</td>
-    <td>کد بخش پشته ها</td>
+    <td>کد بخش صف ها</td>
     <td>
       <a href="https://github.com/LeDerouxe/Data-Structure-Coding/blob/main/Queues.cpp">دانلود</a>
     </td>
