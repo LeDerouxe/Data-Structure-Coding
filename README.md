@@ -56,8 +56,17 @@
     </td>
     <td>تدریس شده در جلسه اول</td>
   </tr>
-  <tr>
+<tr>
     <td>2</td>
+    <td>کد بخش پشته ها</td>
+    <td>
+      <a href="https://github.com/LeDerouxe/Data-Structure-Coding/blob/main/Queues.cpp">دانلود</a>
+    </td>
+    <td>تدریس شده در جلسه دوم</td>
+  </tr>
+    
+  <tr>
+    <td>3</td>
     <td>کتاب ساختمان داده هورویتز </td>
     <td>
       <a href="http://www.mediafire.com/download/q2sze9cwtgt8e8l/DS(Horowitz_Farsi).pdf">دانلود نسخه ترجمه شده</a>
