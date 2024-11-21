@@ -15,13 +15,13 @@
   <tr>
     <td>تمرین آرایه ها</td>
     <td><a href="https://github.com/LeDerouxe/Data-Structure-Coding/blob/main/Arrays%20Q.pdf">دانلود</a></td>
-    <td><a href="https://github.com/LeDerouxe/Data-Structure-Coding/blob/main/Arrays%20A.pdf">دانلود</a></td>
+    <td><a href="https://github.com/LeDerouxe/Data-Structure-Coding/blob/main/Arrays%20A.cpp">دانلود</a></td>
 
   </tr>
   <tr>
     <td>تمرین پشته ها</td>
     <td><a href="https://github.com/LeDerouxe/Data-Structure-Coding/blob/main/Stacks%20Q.pdf">دانلود</a></td>
-     <td><a href="https://github.com/LeDerouxe/Data-Structure-Coding/blob/main/Stacks%20A.pdf">دانلود</a></td>
+     <td><a href="https://github.com/LeDerouxe/Data-Structure-Coding/blob/main/Stacks%20A.cpp">دانلود</a></td>
   </tr>
  <tr>
     <td>تمرین صف ها</td>
