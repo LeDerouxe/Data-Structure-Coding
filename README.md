@@ -15,9 +15,7 @@
   <tr>
     <td>تمرین آرایه ها</td>
     <td><a href="https://github.com/LeDerouxe/Data-Structure-Coding/blob/main/Arrays%20Q.pdf">دانلود</a></td>
-    <td>
-      -
-    </td>
+    <td><a href="https://github.com/LeDerouxe/Data-Structure-Coding/blob/main/Arrays%20A.pdf">دانلود</a></td>
 
   </tr>
   <tr>
