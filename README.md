@@ -21,10 +21,17 @@
   <tr>
     <td>تمرین پشته ها</td>
     <td><a href="https://github.com/LeDerouxe/Data-Structure-Coding/blob/main/Stacks%20Q.pdf">دانلود</a></td>
-     <td>
-      -
-    </td>
+     <td><a href="https://github.com/LeDerouxe/Data-Structure-Coding/blob/main/Stacks%20A.pdf">دانلود</a></td>
   </tr>
+ <tr>
+    <td>تمرین صف ها</td>
+    <td><a href="https://github.com/LeDerouxe/Data-Structure-Coding/blob/main/Queues%20Q.pdf">دانلود</a></td>
+     <td>
+     -  
+     </td>
+  </tr>
+
+  
 </table>
   
   
