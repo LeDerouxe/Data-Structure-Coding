@@ -69,9 +69,25 @@
     </td>
     <td>تدریس شده در جلسه دوم</td>
   </tr>
-    
-  <tr>
+
+<tr>
     <td>3</td>
+    <td>کد بخش وکتور ها</td>
+    <td>
+      <a href="https://github.com/LeDerouxe/Data-Structure-Coding/blob/main/Vectors.cpp">دانلود</a>
+    </td>
+    <td>تدریس شده در جلسه چهارم</td>
+  </tr>
+    <tr>
+    <td>3</td>
+    <td>کد بخش لیست ها</td>
+    <td>
+      <a href="https://github.com/LeDerouxe/Data-Structure-Coding/blob/main/List.cpp">دانلود</a>
+    </td>
+    <td>تدریس شده در جلسه چهارم</td>
+  </tr>
+  <tr>
+    <td>5</td>
     <td>کتاب ساختمان داده هورویتز </td>
     <td>
       <a href="http://www.mediafire.com/download/q2sze9cwtgt8e8l/DS(Horowitz_Farsi).pdf">دانلود نسخه ترجمه شده</a>
