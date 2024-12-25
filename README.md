@@ -30,7 +30,20 @@
      -  
      </td>
   </tr>
-
+ <tr>
+    <td>تمرین وکتور ها</td>
+    <td><a href="https://github.com/LeDerouxe/Data-Structure-Coding/blob/main/Vectors%20Q.pdf">دانلود</a></td>
+     <td>
+     -  
+     </td>
+  </tr>
+   <tr>
+    <td>تمرین لیست ها</td>
+    <td><a href="https://github.com/LeDerouxe/Data-Structure-Coding/blob/main/List%20Q.pdf">دانلود</a></td>
+     <td>
+     -  
+     </td>
+  </tr>
   
 </table>
   
