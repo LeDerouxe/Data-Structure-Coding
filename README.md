@@ -78,15 +78,31 @@
     <td>تدریس شده در جلسه چهارم</td>
   </tr>
     <tr>
-    <td>3</td>
+    <td>4</td>
     <td>کد بخش لیست ها</td>
     <td>
       <a href="https://github.com/LeDerouxe/Data-Structure-Coding/blob/main/List.cpp">دانلود</a>
     </td>
     <td>تدریس شده در جلسه چهارم</td>
   </tr>
-  <tr>
+   <tr>
     <td>5</td>
+    <td>کد بخش ست ها</td>
+    <td>
+      <a href="https://github.com/LeDerouxe/Data-Structure-Coding/blob/main/Sets.cpp">دانلود</a>
+    </td>
+    <td>تدریس شده در جلسه پنجم</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>کد بخش مپ ها</td>
+    <td>
+      <a href="https://github.com/LeDerouxe/Data-Structure-Coding/blob/main/Maps.cpp">دانلود</a>
+    </td>
+    <td>تدریس شده در جلسه پنجم</td>
+  </tr>
+  <tr>
+    <td>7</td>
     <td>کتاب ساختمان داده هورویتز </td>
     <td>
       <a href="http://www.mediafire.com/download/q2sze9cwtgt8e8l/DS(Horowitz_Farsi).pdf">دانلود نسخه ترجمه شده</a>
