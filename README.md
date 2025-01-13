@@ -107,7 +107,7 @@
     <td>
       <a href="https://github.com/LeDerouxe/Data-Structure-Coding/blob/main/DS%20Summary.png">دانلود</a>
     </td>
-    <td>تدریس شده در جلسه پنجم</td>
+    <td>با تشکر از یوسف دولت ابادی</td>
   </tr>
   <tr>
     <td>8</td>
