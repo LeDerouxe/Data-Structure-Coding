@@ -102,7 +102,15 @@
     <td>تدریس شده در جلسه پنجم</td>
   </tr>
   <tr>
-    <td>7</td>
+       <td>7</td>
+    <td>خلاصه کاربرد های ساختمان داده ها</td>
+    <td>
+      <a href="https://github.com/LeDerouxe/Data-Structure-Coding/blob/main/DS%20Summary.png">دانلود</a>
+    </td>
+    <td>تدریس شده در جلسه پنجم</td>
+  </tr>
+  <tr>
+    <td>8</td>
     <td>کتاب ساختمان داده هورویتز </td>
     <td>
       <a href="http://www.mediafire.com/download/q2sze9cwtgt8e8l/DS(Horowitz_Farsi).pdf">دانلود نسخه ترجمه شده</a>
