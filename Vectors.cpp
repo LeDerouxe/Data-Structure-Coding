@@ -19,7 +19,8 @@ Scores.push_back(20);
 for (int Score : Scores) cout << Score << "\n";
 Scores.pop_back();
 for (int Score : Scores) cout << Score << "\n";
-
+Scores.erase(Scores.begin()+2);
+for (int Score : Scores) cout << Score << "\n";
 cout << Scores.size() << "\n";
 cout << Scores.empty()<< "\n";
 }
