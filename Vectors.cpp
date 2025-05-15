@@ -24,6 +24,7 @@ for (int Score : Scores) cout << Score << "\n";
 cout << Scores.size() << "\n";
 cout << Scores.empty()<< "\n";
 sort(v.begin(), v.end());
+sort(v.begin(), v.end(), greater<int>()); // Sorts in descending order
 }
 
 
