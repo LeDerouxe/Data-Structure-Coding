@@ -19,6 +19,8 @@ numbers.insert(13);
 numbers.insert(14);
 numbers.erase(13);
 for (int num : numbers) cout <<num<<"\n";
+cout << *numbers.rbegin()<<"\n";
+cout << *numbers.begin()<<"\n";
 cout << numbers.size()<<"\n";
 cout << numbers.empty();
 }
