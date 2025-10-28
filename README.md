@@ -12,12 +12,9 @@
   </tr>
  <tr>
     <td>0</td>
-    <td>کد بخش آرایه ها</td>
+    <td>پیچیدگی زمانی</td>
     <td>
       <a href="https://github.com/LeDerouxe/Data-Structure-Coding/blob/main/Arrays(Matrix).cpp">دانلود</a>
-    </td>
-    <td>
-      تدریس شده در جلسه اول
     </td>
   </tr>
 
