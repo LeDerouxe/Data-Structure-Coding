@@ -3,38 +3,7 @@
 📅 نیمسال اول 1405-1404
 
   <br>
-
-### تمرین‌ها
-<div dir='rtl'>
-<table>
-  <tr>
-    <th>عنوان</th>
-    <th>سوالات</th>
-  </tr>
-  <tr>
-    <td>تمرین آرایه ها</td>
-    <td><a href="https://github.com/LeDerouxe/Data-Structure-Coding/blob/main/Arrays%20Q.pdf">دانلود</a></td>
-  </tr>
-  <tr>
-    <td>تمرین پشته ها</td>
-    <td><a href="https://github.com/LeDerouxe/Data-Structure-Coding/blob/main/Stacks%20Q.pdf">دانلود</a></td>
-  </tr>
- <tr>
-    <td>تمرین صف ها</td>
-    <td><a href="https://github.com/LeDerouxe/Data-Structure-Coding/blob/main/Queues%20Q.pdf">دانلود</a></td>
-  </tr>
- <tr>
-    <td>تمرین وکتور ها</td>
-    <td><a href="https://github.com/LeDerouxe/Data-Structure-Coding/blob/main/Vectors%20Q.pdf">دانلود</a></td>
-  </tr>
-   <tr>
-    <td>تمرین لیست ها</td>
-    <td><a href="https://github.com/LeDerouxe/Data-Structure-Coding/blob/main/List%20Q.pdf">دانلود</a></td>
-  </tr>
-</table>
-  
-  
-###  منابع
+  ###  منابع
   <table>
   <tr>
     <th></th>
