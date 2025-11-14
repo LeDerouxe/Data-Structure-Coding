@@ -17,6 +17,11 @@
     <td>
       <a href="https://github.com/LeDerouxe/Data-Structure-Coding/blob/main/Time Complexity.pdf">دانلود</a>
     </td>
+   <td>1</td>
+    <td>جستجو و مرتب سازی</td>
+    <td>
+      <a href="https://github.com/LeDerouxe/Data-Structure-Coding/blob/main/Search%20%26%20Sort.pdf">دانلود</a>
+    </td>
   </tr>
 
  
