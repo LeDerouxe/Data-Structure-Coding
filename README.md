@@ -38,7 +38,7 @@
 </div>
 
     
-### تمرین‌ها
+### تمارین
 <div dir='rtl'>
 <table>
 <tr>
@@ -47,7 +47,7 @@
   </tr>
 
   <tr>
-    <td>تمرین آرایه ها</td>
+    <td>تمرین سری اول</td>
     <td>https://codeforces.com/contest/236/problem/A</br>https://codeforces.com/contest/405/problem/A</br>https://codeforces.com/contest/313/problem/A</td>
   </tr>
 
