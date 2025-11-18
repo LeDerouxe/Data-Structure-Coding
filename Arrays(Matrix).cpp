@@ -12,7 +12,7 @@ cout<<a[2]<<endl;
 cout<<a[3]<<endl;
 
 
-//What's a Matrix in coding? (built in, custom(2D arr), Matlab)
+//What's a Matrix in coding? (custom(2D arr), Matlab)
 int matrix[3][3] = {{1, 2, 3}, 
                     {4, 5, 6}, 
                     {7, 8, 9}};
@@ -60,3 +60,4 @@ for (int i = 0; i < 2; i++) {
         cout << endl;
 	}
 }
+
