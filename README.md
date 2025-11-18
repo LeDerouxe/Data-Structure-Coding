@@ -42,7 +42,7 @@
 
   <tr>
     <td>تمرین آرایه ها</td>
-    <td>https://codeforces.com/contest/236/problem/A</br>https://codeforces.com/contest/236/problem/A</td>
+    <td>https://codeforces.com/contest/236/problem/A</br>https://codeforces.com/contest/405/problem/A</br>https://codeforces.com/contest/313/problem/A</td>
   </tr>
 
 </table>
