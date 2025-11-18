@@ -24,7 +24,13 @@
       <a href="https://github.com/LeDerouxe/Data-Structure-Coding/blob/main/Search%20%26%20Sort.pdf">دانلود</a>
     </td>
   </tr>
-
+ <tr>
+    <td>2</td>
+    <td>آرایه</td>
+    <td>
+      <a href="https://github.com/LeDerouxe/Data-Structure-Coding/blob/main/Arrays(Matrix).cpp">دانلود</a>
+    </td>
+   </tr>
  
   
   
