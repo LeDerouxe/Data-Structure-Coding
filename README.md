@@ -31,7 +31,13 @@
       <a href="https://github.com/LeDerouxe/Data-Structure-Coding/blob/main/Arrays(Matrix).cpp">دانلود</a>
     </td>
    </tr>
- 
+  <tr>
+    <td>3</td>
+    <td>پشته</td>
+    <td>
+      <a href="https://github.com/LeDerouxe/Data-Structure-Coding/blob/main/Stack.cpp">دانلود</a>
+    </td>
+   </tr>
   
   
   <table/>
