@@ -22,10 +22,8 @@ int arrayStack[5];
 int main() {
 //LIFO
 //4 main laws : push, pop, top, isEmpty 
-//Static stack :array, Dynamic stack:List (in first way)
-//2 type of FLOWS
 //2 implementation way: 
-//1-custom stack with arrays: 4 functions in lines 52, 60, 67, 70
+//1-custom stack with arrays: 4 functions in lines 51, 59, 66, 69
 
 
 //2-use Stack Standard Template Library(don't forget line 2)
@@ -76,3 +74,4 @@ int peek() {
             return arrayStack[top];
         }
     }
+
