@@ -35,7 +35,7 @@
     <td>3</td>
     <td>پشته</td>
     <td>
-      <a href="https://github.com/LeDerouxe/Data-Structure-Coding/blob/main/Stack.cpp">دانلود</a>
+      <a href="https://github.com/LeDerouxe/Data-Structure-Coding/blob/main/Stacks.cpp">دانلود</a>
     </td>
    </tr>
   
@@ -56,7 +56,10 @@
     <td>تمرین سری اول</td>
     <td>https://codeforces.com/contest/236/problem/A</br>https://codeforces.com/contest/405/problem/A</br>https://codeforces.com/contest/313/problem/A</td>
   </tr>
-
+ <tr>
+    <td>تمرین سری دوم</td>
+    <td>https://codeforces.com/contest/149/problem/A</br>https://codeforces.com/problemset/problem/1374/B</br>https://codeforces.com/problemset/problem/1462/A</td>
+  </tr>
 </table>
 ----------------------------------------------------------------------------------------------------------------------------------
 
