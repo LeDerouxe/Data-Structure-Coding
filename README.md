@@ -38,8 +38,27 @@
       <a href="https://github.com/LeDerouxe/Data-Structure-Coding/blob/main/Stacks.cpp">دانلود</a>
     </td>
    </tr>
-  
-  
+     <tr>
+    <td>4</td>
+    <td>صف</td>
+    <td>
+      <a href="https://github.com/LeDerouxe/Data-Structure-Coding/blob/main/Queues.cpp">دانلود</a>
+    </td>
+   </tr>
+    <tr>
+    <td>5</td>
+    <td>لیست</td>
+    <td>
+      <a href="https://github.com/LeDerouxe/Data-Structure-Coding/blob/main/Lists.cpp">دانلود</a>
+    </td>
+   </tr>
+    <tr>
+    <td>6</td>
+    <td>وکتور</td>
+    <td>
+      <a href="https://github.com/LeDerouxe/Data-Structure-Coding/blob/main/Vectors.cpp">دانلود</a>
+    </td>
+   </tr>
   <table/>
 </div>
 
