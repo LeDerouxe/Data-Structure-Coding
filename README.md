@@ -79,6 +79,10 @@
     <td>تمرین سری دوم</td>
     <td>https://codeforces.com/contest/149/problem/A</br>https://codeforces.com/problemset/problem/1374/B</br>https://codeforces.com/problemset/problem/1462/A</td>
   </tr>
+   <tr>
+    <td>تمرین سری سوم</td>
+    <td>https://codeforces.com/problemset/problem/208/A</br>https://codeforces.com/problemset/problem/580/A</br>https://codeforces.com/problemset/problem/337/A</td>
+  </tr>
 </table>
 ----------------------------------------------------------------------------------------------------------------------------------
 
