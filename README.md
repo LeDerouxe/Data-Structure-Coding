@@ -59,6 +59,20 @@
       <a href="https://github.com/LeDerouxe/Data-Structure-Coding/blob/main/Vectors.cpp">دانلود</a>
     </td>
    </tr>
+     <tr>
+    <td>7</td>
+    <td>ست</td>
+    <td>
+      <a href="https://github.com/LeDerouxe/Data-Structure-Coding/blob/main/Sets.cpp">دانلود</a>
+    </td>
+   </tr>
+     <tr>
+    <td>8</td>
+    <td>مپ</td>
+    <td>
+      <a href="https://github.com/LeDerouxe/Data-Structure-Coding/blob/main/Maps.cpp">دانلود</a>
+    </td>
+   </tr>
   <table/>
 </div>
 
